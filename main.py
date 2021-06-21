@@ -56,7 +56,7 @@ def updatePossibleBoards(possibleChessBoards, currSensorStates, prevSensorStates
 
   return possibleChessBoards                
                 
-  
+
 
 """
 # simulation
